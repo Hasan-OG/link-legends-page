@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ObscureGames.LinkMasters",
+      "sha256_cert_fingerprints": [
+        "29:E6:5A:0A:FA:94:F5:35:DE:98:5E:17:47:A1:BC:EB:3D:40:45:1A:4C:F6:9E:29:8F:B1:EF:61:59:61:FE:94"
+      ]
+    }
+  }
+]
